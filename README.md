@@ -49,14 +49,17 @@ Open Johnny GUI and in settings browse to the John the Ripper executable file jo
 <img width="437.5" height="302" alt="hash files" src="https://github.com/user-attachments/assets/f729cd85-6ed5-4958-8952-4ec2f52415e7" />
 </p>
 
-### Step 6. Opened each hash text file in Johnny and clicked Start New Attack. For each text file a password is shown. Used that specific password to open each specific pdf file.
+### Step 6. Opened each hash text file in Johnny and clicked Start New Attack. For each text file a password is shown. 
 <p align="center">
 <img width="434.5" height="348" alt="cracked" src="https://github.com/user-attachments/assets/b9a34224-0092-41b6-8eb6-6799c24173e8" />
 </p>
 
-<img width="1052" height="1486" alt="image" src="https://github.com/user-attachments/assets/a47c8f25-7bd0-4b31-81fd-98d2945b97c7" />
-<img width="1047" height="1487" alt="image" src="https://github.com/user-attachments/assets/754de3a4-cd15-41d6-be09-2c1102f4d603" />
-<img width="746" height="921" alt="image" src="https://github.com/user-attachments/assets/6a935002-9b08-471c-bcef-5d35291ca784" />
+Used that specific password to open each specific pdf file. 
+
+<img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/a47c8f25-7bd0-4b31-81fd-98d2945b97c7" />
+<img width="400" height="568.099" alt="image" src="https://github.com/user-attachments/assets/754de3a4-cd15-41d6-be09-2c1102f4d603" />
+<img width="400" height="493.8338" alt="image" src="https://github.com/user-attachments/assets/6a935002-9b08-471c-bcef-5d35291ca784" />
+<img width="400" height="483.06878" alt="image" src="https://github.com/user-attachments/assets/e8c231ec-b9d2-42d8-a71d-545973a775b4" />
 
 ### Step 7. Download the encrypted PDF file and upload it to a hash website to get its hash.
 
