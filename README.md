@@ -83,6 +83,10 @@ Used that specific password to open each specific pdf file.
 
 In this project I learned encryption is a two-way function that what is encrypted can be decrypted with the proper key. The proper key can be revealed using tools like Jack the Ripper by providing the tool with the hash of the encrypted file.
 
+* Password cracking involves recovering passwords from stored data or protected files, primarily to evaluate password strength and highlight the risks of weak passwords.
+* Common passwords can be easily discovered, emphasizing the necessity for stronger alternative.
+* Password protected files store passwords as hashes and recovery involves extracting the hash and using a cracking tool to match it against potential passwords. 
+
 ##  Tools & Resources
 
 - **John the Ripper:** [https://www.openwall.com/john/](https://www.openwall.com/john/)
