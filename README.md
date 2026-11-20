@@ -33,7 +33,11 @@ Open Johnny GUI and in settings browse to the John the Ripper executable file jo
 <img width="578.667" height="463.333" alt="Johnny JTR link pg" src="https://github.com/user-attachments/assets/fd400a02-acce-488a-ae6d-ef7099d4666a" />
 </p>
 
-### Step 4. Downloaded the encrypted PDF files and upload them to a hash website https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php to get its hash.
+### Step 4. Downloaded the encrypted PDF files and uploaded them to a hash website https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php to get its hash.
+<p align="center">
+<img width="824" height="490" alt="hash website" src="https://github.com/user-attachments/assets/3dcc7432-d06c-4edf-b52b-87c1796bce1f" />
+</p>
+
 [My Locked PDF1.pdf](https://github.com/user-attachments/files/35129374/My.Locked.PDF1.pdf)
 [My Locked PDF2.pdf](https://github.com/user-attachments/files/35129378/My.Locked.PDF2.pdf)
 [My Locked PDF3.pdf](https://github.com/user-attachments/files/35129391/My.Locked.PDF3.pdf)
