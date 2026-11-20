@@ -30,4 +30,12 @@ Johnny GUI is downloaded from https://openwall.info/wiki/john/johnny and install
 ### Step 3. Add John the Ripper to Johnny GUI.
 Open Johnny GUI and in settings browse to the John the Ripper executable file john.exe .
 
+### Step 4. Downloaded the encrypted PDF files and upload them to a hash website https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php to get its hash.
 
+### Step 5. Copied each hash to a text file.
+
+### Step 6. Opened each hash text file in Johnny and clicked Start New Attack. For each text file a password is shown. Used that specific password to open each specific pdf file.
+
+### Step 7. Download the encrypted PDF file and upload it to a hash website to get its hash.
+
+### Step 8. Download the encrypted PDF file and upload it to a hash website to get its hash.
