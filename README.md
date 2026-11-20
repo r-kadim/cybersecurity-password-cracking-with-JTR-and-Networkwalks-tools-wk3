@@ -61,6 +61,20 @@ Used that specific password to open each specific pdf file.
 <img width="400" height="493.8338" alt="image" src="https://github.com/user-attachments/assets/6a935002-9b08-471c-bcef-5d35291ca784" />
 <img width="400" height="483.06878" alt="image" src="https://github.com/user-attachments/assets/e8c231ec-b9d2-42d8-a71d-545973a775b4" />
 
-### Step 7. Download the encrypted PDF file and upload it to a hash website to get its hash.
+### Step 7. Repeated Step 4 using Networkwalks website https://networkwalks.com/hash-calculator/ .
+<p align="center">
+<img width="1920" height="965" alt="NW Hash web" src="https://github.com/user-attachments/assets/f35a00f3-c4ed-451f-861c-c77b678ce328" />
+</p>
 
-### Step 8. Download the encrypted PDF file and upload it to a hash website to get its hash.
+
+### Step 8. Copied that hash and pasted it on Networkwalks website https://networkwalks.com/password-cracker/ .
+<p align="center">
+<img width="1920" height="971" alt="NW PW Cracker" src="https://github.com/user-attachments/assets/844501ef-4046-475a-9430-b8e6e159b72c" />
+</p>
+
+### Step 9. Pressed Start Cracking which similar to Johnny of John the Ripper above cracked the password this time without creating the separate text file with hash.
+<p align="center">
+<img width="1920" height="974" alt="NW PW Cracked" src="https://github.com/user-attachments/assets/ace9fe32-cff6-45ef-9ba3-fe46ad401af6" />
+</p>
+
+<img width="756" height="913" alt="image" src="https://github.com/user-attachments/assets/ea22cf0c-530b-4b38-94ee-49965e4d834b" />
