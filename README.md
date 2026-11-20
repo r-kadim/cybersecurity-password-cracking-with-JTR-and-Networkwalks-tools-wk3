@@ -17,14 +17,17 @@ The purpose of this lab is to learn to recover the password of a protected PDF f
 *   **Graphics:** NVIDIA RTX 3060 Laptop GPU (6 GB), Intel(R) UHD Graphpics (128 MB)
 *   **Storage:** Micron 3400 477 GB NVMe M.2 SSD, Western Digital WD10SPX 932 GB HDD
 
-### Step 1 . Download and Install 7-Zip or similar.
-7-Zip is installed to extract the Kali Linux virtual machine package for VirtualBox, which typically is distributed as a `.7z` compressed file.
+### Step 1 . Download and Install John the Ripper.
+John the Ripper is downloaded from https://www.openwall.com/john/ and is installed in Windows computer.
 
-**Tool:** 7-Zip, WinRar
+**Tool:** John the Ripper, Windows
 
-### Step 2 . Download and Install VirtualBox.
-VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+### Step 2 . Download and Install Johnny GUI
+Johnny GUI is downloaded from https://openwall.info/wiki/john/johnny and installed in the Windows environment.
 
-**Tool:** VirtualBox 7.2.22
+**Tool:** Johnny GUI, Windows
 
-### Step 3. Create NAT Network in VirtualBox using the IP Address 10.0.0.0/24.
+### Step 3. Add John the Ripper to Johnny GUI.
+Open Johnny GUI and in settings browse to the John the Ripper executable file john.exe .
+
+
