@@ -88,3 +88,11 @@ In this project I learned encryption is a two-way function that what is encrypte
 - **John the Ripper:** [https://www.openwall.com/john/](https://www.openwall.com/john/)
 - **Johnny GUI:** [https://virtualbox.org/wiki/Downloads](https://openwall.info/wiki/john/johnny)
   
+##  Author
+**Rajesh Kadim**\
+Cybersecurity Intern B084
+
+LinkedIn: https://www.linkedin.com/in/rajesh-kadim/
+
+##  Project Information
+Program Name: Cybersecurity at Networkwalks | **Week:** 03 | Project: Password Cracking with John the Ripper & Networkwalks Tools | **Repository:** GitHub
