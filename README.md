@@ -78,3 +78,13 @@ Used that specific password to open each specific pdf file.
 </p>
 
 <img width="756" height="913" alt="image" src="https://github.com/user-attachments/assets/ea22cf0c-530b-4b38-94ee-49965e4d834b" />
+
+## What I Learned
+
+In this project I learned encryption is a two-way function that what is encrypted can be decrypted with the proper key. The proper key can be revealed using tools like Jack the Ripper by providing the tool with the hash of the encrypted file.
+
+##  Tools & Resources
+
+- **John the Ripper:** [https://www.openwall.com/john/](https://www.openwall.com/john/)
+- **Johnny GUI:** [https://virtualbox.org/wiki/Downloads](https://openwall.info/wiki/john/johnny)
+  
