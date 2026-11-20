@@ -34,6 +34,13 @@ Open Johnny GUI and in settings browse to the John the Ripper executable file jo
 </p>
 
 ### Step 4. Downloaded the encrypted PDF files and upload them to a hash website https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php to get its hash.
+[My Locked PDF1.pdf](https://github.com/user-attachments/files/35129374/My.Locked.PDF1.pdf)
+[My Locked PDF2.pdf](https://github.com/user-attachments/files/35129378/My.Locked.PDF2.pdf)
+[My Locked PDF3.pdf](https://github.com/user-attachments/files/35129391/My.Locked.PDF3.pdf)
+[My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf](https://github.com/user-attachments/files/35129394/My.Locked.PDF1.for.NW.Tools.Lab.WK3-PM2.pdf)
+
+
+
 
 ### Step 5. Copied each hash to a text file.
 
